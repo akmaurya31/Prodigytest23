@@ -3,5 +3,5 @@ module.exports = app => {
  
     // By Ashish Ji 
     app.post("/changePbank",customers.changePbank);
-    app.post("/deletebank",customers.deletebank);
+    
 };
